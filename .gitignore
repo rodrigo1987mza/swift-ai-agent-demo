@@ -1,0 +1,24 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+
+# Build
+build/
+DerivedData/
+
+# Environment files
+.dev
+.env
+*.env
+
+# API Keys and sensitive data
+config.plist
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
