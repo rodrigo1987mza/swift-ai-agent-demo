@@ -3,10 +3,39 @@
 xcuserdata/
 *.xcuserstate
 *.xcworkspace/xcuserdata/
+project.xcworkspace/xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+*.xcscheme
 
 # Build
 build/
 DerivedData/
+*.build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved
+*.xcworkspace
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
 
 # Environment files
 .dev
@@ -15,10 +44,23 @@ DerivedData/
 
 # API Keys and sensitive data
 config.plist
+secrets.plist
 
 # Logs
 *.log
 
 # Temporary files
 *.tmp
-*.temp 
+*.temp
+*.swp
+*.swo
+
+# iOS Simulator
+*.app/
+*.ipa
+
+# Xcode Playground
+playground.xcworkspace
+
+# Code Injection
+iOSInjectionProject/ 
